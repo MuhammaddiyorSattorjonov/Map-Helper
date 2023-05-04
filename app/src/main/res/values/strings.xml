@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StartUp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="search">Search...</string>
+    <string name="google_maps_key">AIzaSyDnv-5qJljahx-eKsOPjfgiMsIh0mll8NE</string>
+</resources>

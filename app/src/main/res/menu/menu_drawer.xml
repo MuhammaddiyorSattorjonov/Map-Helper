@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rate"
+        android:title="Rate"
+        android:icon="@drawable/rate"
+        />
+
+<!--    <item-->
+<!--        android:id="@+id/language"-->
+<!--        android:title="Language"-->
+<!--        android:icon="@drawable/language"-->
+<!--        />-->
+
+    <item
+        android:id="@+id/comments"
+        android:title="Comments"
+        android:icon="@drawable/comments"
+        />
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/share"
+        />
+
+
+</menu>
